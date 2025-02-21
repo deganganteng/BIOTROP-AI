@@ -1,9 +1,6 @@
 from components.Header import *
 from components.Main import *
 
-
-load_dotenv()
-
 def main():
 
     Header()
@@ -11,4 +8,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
